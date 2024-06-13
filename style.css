@@ -378,18 +378,20 @@ header .search-bar-contioner label:hover {
   margin-bottom: 20px;
   padding-bottom: 10px;
   line-height: 1.5;
+  padding-right: 10px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .about-container img {
   float: left;
   width: 500px;
   height: 350px;
+  padding: 10px;
 }
 .divtag {
   overflow: auto;
 }
-.para {
-  padding-right: 10px;
-}
+
 .review .review-slider {
   padding-bottom: 2rem;
 }
